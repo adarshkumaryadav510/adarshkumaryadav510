@@ -1,6 +1,8 @@
 # 💫 About Me:
 Studying at Vit Bhopal | Computer science and engineering | C++ | Python
 
+## Interestes in
+programming, game development and learning new skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-yadav-11b7b23b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshkumaryadav510@gmail.com) 
