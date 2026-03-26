@@ -1,7 +1,7 @@
 # 💫 About Me:
 Studying at Vit Bhopal | Computer science and engineering | C++ | Python
 
-## Interestes in
+## Interested in
 programming, game development and learning new skills.
 
 ## 🌐 Socials:
